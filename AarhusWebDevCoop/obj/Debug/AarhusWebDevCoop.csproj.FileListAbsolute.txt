@@ -1,0 +1,270 @@
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\AutoMapper.Net4.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\ApplicationInsights.config
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\csc.exe
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\System.Collections.Immutable.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\vbc.exe
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\VBCSCompiler.exe
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\VBCSCompiler.exe.config
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\AarhusWebDevCoop.dll.config
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\AarhusWebDevCoop.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\AarhusWebDevCoop.pdb
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\AutoMapper.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\businesslogic.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\ClientDependency.Core.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\ClientDependency.Core.Mvc.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\cms.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\controls.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\CookComputing.XmlRpcV2.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Examine.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\HtmlAgilityPack.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\ICSharpCode.SharpZipLib.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\ImageProcessor.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\ImageProcessor.Web.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\interfaces.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\log4net.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Lucene.Net.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\MarkdownSharp.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AI.Web.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AI.WindowsServer.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.ApplicationBlocks.Data.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.ApplicationInsights.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.CodeAnalysis.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.IO.RecyclableMemoryStream.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Security.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Web.Infrastructure.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\MiniProfiler.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\MySql.Data.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Newtonsoft.Json.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Owin.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Semver.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\SQLCE4Umbraco.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Collections.Immutable.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Data.SqlServerCe.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Data.SqlServerCe.Entity.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Net.Http.Formatting.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Reflection.Metadata.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Helpers.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Http.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Http.WebHost.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Mvc.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Razor.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.WebPages.Deployment.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.WebPages.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.WebPages.Razor.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\TidyNet.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Umbraco.Core.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.DataLayer.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.editorControls.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.MacroEngines.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Umbraco.ModelsBuilder.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.providers.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Umbraco.Web.UI.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\UmbracoExamine.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\UrlRewritingNet.UrlRewriter.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\AutoMapper.pdb
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\AutoMapper.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\AutoMapper.Net4.pdb
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\businesslogic.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\ClientDependency.Core.pdb
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\ClientDependency.Core.Mvc.pdb
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\cms.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\controls.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Examine.pdb
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\HtmlAgilityPack.pdb
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\HtmlAgilityPack.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\interfaces.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Lucene.Net.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AI.Web.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AI.WindowsServer.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.ApplicationInsights.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.IO.RecyclableMemoryStream.pdb
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Security.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\MiniProfiler.pdb
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\MiniProfiler.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Newtonsoft.Json.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\SQLCE4Umbraco.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Net.Http.Formatting.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Helpers.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Http.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Http.WebHost.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Mvc.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Razor.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.WebPages.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.WebPages.Deployment.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.WebPages.Razor.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Umbraco.Core.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.DataLayer.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.editorControls.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.MacroEngines.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Umbraco.ModelsBuilder.pdb
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.providers.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Umbraco.Web.UI.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\UmbracoExamine.xml
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\obj\Debug\AarhusWebDevCoop.csprojResolveAssemblyReference.cache
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\obj\Debug\AarhusWebDevCoop.dll
+c:\users\emil rotzler\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\obj\Debug\AarhusWebDevCoop.pdb
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\ApplicationInsights.config
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\csc.exe
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\vbc.exe
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\AutoMapper.Net4.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\AarhusWebDevCoop.dll.config
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\AarhusWebDevCoop.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\AarhusWebDevCoop.pdb
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\AutoMapper.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\businesslogic.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\ClientDependency.Core.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\ClientDependency.Core.Mvc.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\cms.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\controls.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\CookComputing.XmlRpcV2.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Examine.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\HtmlAgilityPack.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\ImageProcessor.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\ImageProcessor.Web.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\interfaces.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\log4net.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Lucene.Net.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\MarkdownSharp.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AI.Web.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.CodeAnalysis.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Security.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\MiniProfiler.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\MySql.Data.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Newtonsoft.Json.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Owin.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Semver.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\SQLCE4Umbraco.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Collections.Immutable.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Data.SqlServerCe.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Data.SqlServerCe.Entity.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Net.Http.Formatting.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Reflection.Metadata.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Helpers.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Http.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Http.WebHost.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Mvc.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Razor.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.WebPages.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\TidyNet.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Umbraco.Core.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.DataLayer.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.editorControls.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.MacroEngines.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Umbraco.ModelsBuilder.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.providers.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Umbraco.Web.UI.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\UmbracoExamine.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\UrlRewritingNet.UrlRewriter.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\AutoMapper.pdb
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\AutoMapper.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\AutoMapper.Net4.pdb
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\businesslogic.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\ClientDependency.Core.pdb
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\ClientDependency.Core.Mvc.pdb
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\cms.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\controls.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Examine.pdb
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\HtmlAgilityPack.pdb
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\HtmlAgilityPack.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\interfaces.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Lucene.Net.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AI.Web.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.IO.RecyclableMemoryStream.pdb
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Security.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\MiniProfiler.pdb
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\MiniProfiler.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Newtonsoft.Json.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\SQLCE4Umbraco.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Net.Http.Formatting.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Helpers.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Http.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Http.WebHost.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Mvc.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Razor.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.WebPages.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Umbraco.Core.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.DataLayer.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.editorControls.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.MacroEngines.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Umbraco.ModelsBuilder.pdb
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.providers.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\Umbraco.Web.UI.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\bin\UmbracoExamine.xml
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\obj\Debug\AarhusWebDevCoop.csprojResolveAssemblyReference.cache
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\obj\Debug\AarhusWebDevCoop.dll
+C:\Users\Emil Rotzler\Documents\GitHub\AarhusWebDevCoop\AarhusWebDevCoop\obj\Debug\AarhusWebDevCoop.pdb

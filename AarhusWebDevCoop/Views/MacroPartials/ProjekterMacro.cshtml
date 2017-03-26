@@ -1,0 +1,21 @@
+﻿@inherits Umbraco.Web.Macros.PartialViewMacroPage
+
+
+@{
+var numOfProjects = Model.MacroParameters["NumOfProjects"];
+var restOnProjects = Model.MacroParameters["RestOnProjects"];
+
+var selection = @Umbraco.Content(1081).Children().Where("projectStatus > @0", (Convert.ToInt32(restOnProjects))).Where("Visible").OrderBy("CreateDate desc").Take(Convert.ToInt32(numOfProjects));
+}
+
+@if (selection.Any())
+{
+    <ul>
+        @foreach (var item in selection)
+        {
+            <li>
+                <a href="@item.Url">@item.Name</a>
+            </li>
+        }
+    </ul>
+}

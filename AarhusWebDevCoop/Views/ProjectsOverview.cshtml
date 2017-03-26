@@ -1,0 +1,19 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage<ContentModels.ProjectsOverview>
+@using ContentModels = Umbraco.Web.PublishedContentModels;
+@{
+	Layout = "Master.cshtml";
+}
+<h1> Projekter </h1>
+<div>
+@{
+	var selection = CurrentPage.Site().FirstChild("projectsOverview").Children.Where("projectStatus > @0", 20).Where("Visible").OrderBy("Name");
+}
+@foreach (var item in selection) {
+var isProtected = umbraco.library.IsProtected(item.id, item.path);
+var loginAccess = umbraco.library.IsProtected(item.id, item.path)&& umbraco.library.HasAccess(item.id, item.path);
+
+if (!isProtected || loginAccess) {
+	<li class="@(item.IsAncestorOrSelf(CurrentPage) ? "active" : null)"><a href="@item.Url">@item.Name</a></li>
+}
+}
+</div>
